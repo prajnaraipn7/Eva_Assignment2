@@ -32,6 +32,7 @@ Metrics:
 Its a function used to evaluate the performance of the model.Similar to loss function, but its to evaluate the model and not used while training the model.Keras allows us to list the metrics to monitor during the training of our model.
 
 **Parameters while fitting the model**
+
 Batch size is used to specify the number of observation after which you we would update weight. 
  
 Epoch is nothing but the total number of iterations.
@@ -49,6 +50,7 @@ By setting verbose 0, 1 or 2 you just say how do you want to 'see' the training 
 Epoch 1/10
 
 **Evaluating the Model**
+
 We fit the model to your training data and evaluate it on the test dataset.
 
 
