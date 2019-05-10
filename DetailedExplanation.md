@@ -3,7 +3,7 @@
 Convolution:
 The purpose of doing **convolution** is to extract useful features from the input. In image processing, there is a wide range of different filters one could choose for convolution. Each type of filters helps to extract different aspects or features from the input image, e.g. horizontal / vertical / diagonal edges. Similarly, in Convolutional Neural Network, different features are extracted through convolution using filters whose weights are automatically learned during training. All these extracted features then are ‘combined’ to make decisions.
 
-https://cdn-images-1.medium.com/max/800/1*Emy_ai48XaOeGDgykLypPg.gif
+![alt text](https://cdn-images-1.medium.com/max/800/1*Emy_ai48XaOeGDgykLypPg.gif)
 
 **Parameters while compiling the model**
 
