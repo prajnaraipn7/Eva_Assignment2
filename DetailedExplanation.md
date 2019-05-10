@@ -1,6 +1,7 @@
 <b>Detailed Understanding of the concepts</b>
 
-Convolution:
+**Convolution**:
+
 The purpose of doing **convolution** is to extract useful features from the input. In image processing, there is a wide range of different filters one could choose for convolution. Each type of filters helps to extract different aspects or features from the input image, e.g. horizontal / vertical / diagonal edges. Similarly, in Convolutional Neural Network, different features are extracted through convolution using filters whose weights are automatically learned during training. All these extracted features then are ‘combined’ to make decisions.
 
 Here,the input layer is a 5 x 5 matrix with 3 channels. The kernel is a 3 x 3 matrix with 3 channels. Initially each of the kernel passes through three channels in the input layer, separately. Three convolutions are performed, which result in 3 channels with size 3 x 3.
