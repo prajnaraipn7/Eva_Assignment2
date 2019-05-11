@@ -51,6 +51,6 @@ Epoch 1/10
 
 **Evaluating the Model**
 
-We fit the model to your training data and evaluate it on the test dataset.
+We fit the model to our training data and evaluate it on the test dataset.
 
 
